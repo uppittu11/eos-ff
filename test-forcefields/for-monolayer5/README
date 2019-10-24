@@ -1,0 +1,6 @@
+Everything taken from ../optimized/
+
+Changes:
+- ester-tail, ester-ester, and ester-ter2 interactions have been optimized (step 36)
+- replaced ester-cbody potentials with head-cbody potentials
+- replaced ester-headgroup with head-headgroup potentials
