@@ -1,0 +1,8 @@
+# for_monolayer
+
+Everything taken from ../optimized/
+
+Changes:
+- replaced ester-tail with tail-tail
+- replaced ester-ter2 with tail-ter2
+- replaced ester-head with tail-head

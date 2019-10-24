@@ -1,3 +1,3 @@
-# scaled80
+# scaled50
 
-- Scaled all ESTER-X interactions to 80% of the original
+- Scaled all ESTER-X interactions to 50% of the original

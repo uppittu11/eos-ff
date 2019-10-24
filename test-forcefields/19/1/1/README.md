@@ -1,3 +1,3 @@
-# scaled50
+# mhead-scaled-50
 
-- Scaled all ESTER-X interactions to 50% of the original
+- scaled ESTER-MHEAD2 interaction by 50%

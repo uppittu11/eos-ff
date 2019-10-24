@@ -2,12 +2,12 @@ import numpy as np
 import glob
 
 scaling = {
-        ("ester", "mhead"): 0.80,
-        ("ester", "oh1"): 0.80,
-        ("ester", "oh2"): 0.80,
-        ("ester", "amide"): 0.80,
-        ("ester", "head"): 0.80,
-        ("ester", "chead"): 0.80,
+        ("ester", "mhead"): 0.50,
+        ("ester", "oh1"): 0.50,
+        ("ester", "oh2"): 0.50,
+        ("ester", "amide"): 0.50,
+        ("ester", "head"): 0.50,
+        ("ester", "chead"): 0.50,
         }
 for fname in glob.glob('*ester*txt'):
     if "step" in fname:
