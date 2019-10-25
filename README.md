@@ -7,5 +7,5 @@ To organize CER EOS forcefield development.
 
 **current** contains the currently used forcefield.
 
-**modify** is a staging ground for modifying the current forcefield. scripts used should be contained there.
+**modify** is a staging ground for modifying the current forcefield. Scripts used should be contained there.
 
