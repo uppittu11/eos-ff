@@ -1,8 +1,8 @@
-# afterpure-taild
+# afterpure-taild2
 
 Everything taken from ../afterpure
 
 Changes:
-- Loosened the X-TAILD-X angle parameters
-- Weakened the TAILD-TAILD and TAILD-TAIL interactions by 0.75
+- Weakened the TAILD-TAILD interaction by -75%
+- Weakened the TAILD-TAIL interaction by -80%
 

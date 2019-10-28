@@ -2,8 +2,8 @@ import numpy as np
 import glob
 
 scaling = {
-        ("tail", "taild"): 0.80,
-        ("taild", "taild"): 0.75,
+        ("tail", "taild"):  0.20,
+        ("taild", "taild"): 0.25,
         }
 for fname in glob.glob('*taild*txt'):
     if "step" in fname:
