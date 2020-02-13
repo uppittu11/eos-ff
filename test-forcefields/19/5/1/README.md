@@ -1,4 +1,4 @@
-# msibi-all
+# msibi-all2
 
 MSIBI using all states. Initial FF taken from 19.4.2
 
@@ -16,6 +16,5 @@ bulk_cer_ffa
 mono40_2  
 pureeos2	  
 
-
-
 Changes:
+- Redid MSIBI with new head correction
