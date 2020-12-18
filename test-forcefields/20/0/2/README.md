@@ -1,6 +1,7 @@
-# msibi-mapping2
+# scaled sticky 2.0
 
 Potentials taken from 20.0.1
 
 Changes:
-- replaced TAILD-TAIL and TAILD-TAILD interactions with 19.4.2
+- scaled sticky headgroup interactions by 2.0
+- headgroup includes oh1, oh2, amide, chead, and head
